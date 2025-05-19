@@ -1,6 +1,9 @@
 # Car_Review_LLM
 Analyzing Car Reviews with LLMs
-This project leverages pre-trained Hugging Face LLMs to analyze car reviews through sentiment classification, translation, question answering, and summarization. Designed for Car-ing is Sharing auto dealership, it enhances customer support and human agent efficiency by automating text analysis tasks.
+This project leverages pre-trained Hugging Face LLMs to analyze car reviews through sentiment classification, translation, question answering, and summarization. Designed for 
+
+**Project Senario:**
+Car-ing is Sharing auto dealership, it enhances customer support and human agent efficiency by automating text analysis tasks.
 
 Features
 Sentiment Analysis: Classifies reviews as POSITIVE/NEGATIVE using distilbert-base-uncased-finetuned-sst-2-english.
