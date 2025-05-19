@@ -5,14 +5,15 @@ This project leverages pre-trained Hugging Face LLMs to analyze car reviews thro
 **Project Senario:**
 Car-ing is Sharing auto dealership, it enhances customer support and human agent efficiency by automating text analysis tasks.
 
-Features
-Sentiment Analysis: Classifies reviews as POSITIVE/NEGATIVE using distilbert-base-uncased-finetuned-sst-2-english.
+**Features:**
 
-Translation: Translates English reviews to Spanish via Helsinki-NLP/opus-mt-en-es.
+**Sentiment Analysis**: Classifies reviews as POSITIVE/NEGATIVE using distilbert-base-uncased-finetuned-sst-2-english.
 
-Extractive QA: Answers questions about reviews using deepset/minilm-uncased-squad2.
+**Translation**: Translates English reviews to Spanish via Helsinki-NLP/opus-mt-en-es.
 
-Summarization: Condenses lengthy reviews with cnicu/t5-small-booksum.
+**Extractive QA**: Answers questions about reviews using deepset/minilm-uncased-squad2.
+
+**Summarization**: Condenses lengthy reviews with cnicu/t5-small-booksum.
 
 Installation
 Prerequisites:
